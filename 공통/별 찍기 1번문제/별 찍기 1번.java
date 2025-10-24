@@ -1,9 +1,8 @@
 // Scanner : 입력을 도와주는 도구(클래스)
 import java.util.Scanner;
 
-public class Main {
+public class Star1 {
     public static void main(String[] args) {
-
         // 1. Scanner 만들기 (입력을 받을 준비)
         Scanner sc = new Scanner(System.in);
 
