@@ -1,4 +1,5 @@
-import java.util.Scanner; // 입력을 도와주는 도구(클래스)
+// Scanner : 입력을 도와주는 도구(클래스)
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -21,7 +22,7 @@ public class Main {
             System.out.println();
         }
 
-        // 6. Scanner 닫기 (마지막에 해주는 게 습관적으로 좋아)
+        // 6. Scanner 닫기
         sc.close();
     }
 }
