@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Star10 {
 
     static char[][] arr;
 
