@@ -25,6 +25,6 @@ public class Star13 {
             System.out.println(); // 줄바꿈
         }
 
-        sc.close(); // Scanner 닫기 (경고 제거)
+        sc.close(); // Scanner 닫기
     }
 }
